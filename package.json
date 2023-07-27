@@ -1,0 +1,24 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "Repository for working on javascripting lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villiamrose/javascripting.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/villiamrose/javascripting/issues"
+  },
+  "homepage": "https://github.com/villiamrose/javascripting#readme",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
